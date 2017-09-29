@@ -1,4 +1,4 @@
-ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+JB_BOXUPDATER ANDROID PROJECT IMPORT SUMMARY
 ======================================
 
 Ignored Files:
@@ -9,7 +9,7 @@ so manually move them:
 
 * .idea\
 * .idea\.name
-* .idea\FreestreamboxUpdater.iml
+* .idea\boxUpdater.iml
 * .idea\compiler.xml
 * .idea\copyright\
 * .idea\copyright\profiles_settings.xml
